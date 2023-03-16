@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetManagerAc</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="regemail">Register EMAIL</string>
+    <string name="user">Pet Manager</string>
+    <string name="text_welcome">Welcome</string>
+    <string name="singout">Sign Out</string>
+    <string name="title">LLEVA EL CONTROL DE TU MASCOTA</string>
+    <string name="text_introduction">Con petmanager es posible cuidar a tu mascota en todo momento</string>
+    <string name="properties">Caracteristicas de mascota</string>
+    <string name="text_properties">Lo que necesitas cuando lo necesitas</string>
+    <string name="messagepassword">Invalid Password</string>
+    <string name="messageusername">Invalid Username</string>
+</resources>
